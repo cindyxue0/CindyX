@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
 public class MyWindow extends JFrame implements KeyListener {
-
+//added comment from browser
 	int width = 500;
 	int height = 500;
 	Hero girl;
